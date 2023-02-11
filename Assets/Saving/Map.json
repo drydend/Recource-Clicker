@@ -1,0 +1,3932 @@
+{
+  "Regions": [
+    {
+      "Id": 1,
+      "IsUnlocked": false,
+      "Name": "Second Region",
+      "UnlockCost": [
+        {
+          "ResourceType": 1,
+          "Value": 100.0
+        },
+        {
+          "ResourceType": 4,
+          "Value": 100.0
+        }
+      ],
+      "CorePosition": {
+        "X": 17,
+        "Y": 6
+      },
+      "Cells": [
+        {
+          "Type": 1,
+          "CellVariation": 17,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 6,
+            "Y": 9
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": 9
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": 8
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 43,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": 8
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 9,
+            "Y": 8
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 9,
+            "Y": 9
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 46,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 10,
+            "Y": 9
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 9,
+            "Y": 10
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": 10
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": 9
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": 10
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 19,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": 11
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 18,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 11,
+            "Y": 9
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 17,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": 8
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": 7
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 16,
+            "Y": 6
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": 8
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 16,
+            "Y": 9
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": 3
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": 2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 16,
+            "Y": 3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": 4
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": 5
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": 8
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": 9
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": 7
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 31,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": 6
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": 5
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": 6
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 31,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": 7
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 13,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 16,
+            "Y": 8
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 16,
+            "Y": 7
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 12,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": 8
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": 5
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 13,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": 6
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 16,
+            "Y": 5
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": 4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": 6
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": 5
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 16,
+            "Y": 4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": 3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": 2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": 9
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 10,
+            "Y": 10
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 20,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 1,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": 13
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": 15
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 8,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": 15
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": 15
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 33,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": 14
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": 14
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": 16
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": 16
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 31,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 20,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": -5
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 20,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 20,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 33,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 1,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 13,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 31,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 20,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 20,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 1,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": 4
+          }
+        }
+      ]
+    },
+    {
+      "Id": 0,
+      "IsUnlocked": true,
+      "Name": "Start Region",
+      "UnlockCost": [],
+      "CorePosition": {
+        "X": 0,
+        "Y": 0
+      },
+      "Cells": [
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -1,
+            "Y": 1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -1,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 0,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 1,
+            "Y": 1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 0,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -1,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 1,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -2,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -4,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 16,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -4,
+            "Y": 1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -2,
+            "Y": 1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -3,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -3,
+            "Y": 1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -3,
+            "Y": 3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -1,
+            "Y": 4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 0,
+            "Y": 4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 2,
+            "Y": 4
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 19,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 20,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 6,
+            "Y": -5
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 43,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": -1,
+            "Y": -6
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -3,
+            "Y": -5
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -6,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 16,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -5,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -5,
+            "Y": 1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -4,
+            "Y": 2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -5,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -5,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 31,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -5,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -5,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -4,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -2,
+            "Y": -5
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -1,
+            "Y": -5
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 0,
+            "Y": -5
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 14,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 1,
+            "Y": -5
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 2,
+            "Y": -5
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 43,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 0,
+            "Y": -6
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 1,
+            "Y": -6
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": -3,
+            "Y": -6
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 43,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -2,
+            "Y": -6
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -4,
+            "Y": -5
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 14,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 16,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 34,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 4,
+            "Y": 3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 3,
+            "Y": 4
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 1,
+            "Y": 4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -1,
+            "Y": 3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -2,
+            "Y": 3
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -2,
+            "Y": 2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 16,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -3,
+            "Y": 2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 0,
+            "Y": 2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 0,
+            "Y": 3
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 1,
+            "Y": 3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 2,
+            "Y": 3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 14,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 3,
+            "Y": 2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 2,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 1,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 2,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -3,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -3,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -2,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -3,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -4,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -4,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -4,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -3,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -2,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -2,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": -2,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": -1,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 0,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 0,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -1,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -1,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 1,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 1,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 14,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 2,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 2,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 0,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 3,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 3,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 6,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 33,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 6,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 31,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 6,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 4,
+            "Y": 2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 13,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 3,
+            "Y": 3
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 2,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 2,
+            "Y": 1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 3,
+            "Y": 1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 3,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 1,
+            "Y": 2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 2,
+            "Y": 2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -1,
+            "Y": 2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 0,
+            "Y": 1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 1,
+            "Y": 0
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 14,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -12,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 17,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -14,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -11,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 9,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -12,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": -13,
+            "Y": -2
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 12,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -13,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -13,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -12,
+            "Y": -4
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -11,
+            "Y": -3
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 19,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -12,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": -6,
+            "Y": -1
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 31,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 0,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": -6,
+            "Y": -2
+          }
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "IsUnlocked": false,
+      "Name": "Third Region",
+      "UnlockCost": [
+        {
+          "ResourceType": 5,
+          "Value": 1000.0
+        },
+        {
+          "ResourceType": 2,
+          "Value": 500.0
+        }
+      ],
+      "CorePosition": {
+        "X": 17,
+        "Y": -17
+      },
+      "Cells": [
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 16,
+            "Y": -11
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": -11
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": -12
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 16,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": -12
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 12,
+            "Y": -12
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": -11
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 16,
+            "Y": -12
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": -13
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 14,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 16,
+            "Y": -13
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": -12
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": -13
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": -13
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": -11
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 31,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 12,
+            "Y": -13
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 14,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": -14
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": -14
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 12,
+            "Y": -14
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": -15
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": -14
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 16,
+            "Y": -14
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 16,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 31,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": -19
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 20,
+            "Y": -19
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": -15
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": -13
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 17,
+            "Y": -12
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": -15
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 20,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 21,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 20,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 22,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 2,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 21,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 18,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": -19
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 21,
+            "Y": -20
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 21,
+            "Y": -19
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 20,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 22,
+            "Y": -19
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 14,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 22,
+            "Y": -20
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": -15
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 19,
+            "Y": -20
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 22,
+            "Y": -21
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 20,
+            "Y": -15
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 21,
+            "Y": -15
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 22,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 23,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 13,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 22,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 13,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 21,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 23,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 23,
+            "Y": -19
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 20,
+            "Y": -20
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 43,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 21,
+            "Y": -21
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 20,
+            "Y": -21
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 23,
+            "Y": -20
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 43,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": -15
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 6,
+            "Y": -15
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": -15
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": -15
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 13,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 5,
+            "Y": -15
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 9,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 10,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 10,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 13,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 9,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 43,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 9,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": -19
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 43,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": -19
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 43,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 6,
+            "Y": -19
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 5,
+            "Y": -19
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 4,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 31,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 4,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 4,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 6,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 6,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 6,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 5,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 5,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 16,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 5,
+            "Y": -16
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 20,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": -18
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 40,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 18,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 15,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 17,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": -17
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 12,
+            "Y": -21
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 39,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 11,
+            "Y": -21
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 10,
+            "Y": -21
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 17,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 9,
+            "Y": -22
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 12,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 10,
+            "Y": -22
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 12,
+            "Y": -23
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": -23
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 13,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": -22
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 10,
+            "Y": -23
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 43,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 12,
+            "Y": -24
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 43,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": -24
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": -24
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 35,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": -23
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 14,
+            "Y": -22
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 11,
+            "Y": -24
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 13,
+            "Y": -21
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 23,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": -12
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 1
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": -12
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 8,
+          "BuildingData": {
+            "Type": 1,
+            "Id": 2,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": -11
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 29,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 9,
+            "Y": -11
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 27,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 9,
+            "Y": -10
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 7,
+            "Y": -11
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 25,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 8,
+            "Y": -10
+          }
+        },
+        {
+          "Type": 1,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 11,
+            "Y": -22
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 15,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 11,
+            "Y": -23
+          }
+        },
+        {
+          "Type": 0,
+          "CellVariation": 1,
+          "BuildingData": {
+            "Type": 0,
+            "Id": 0,
+            "Variation": 0
+          },
+          "CellPosition": {
+            "X": 12,
+            "Y": -22
+          }
+        }
+      ]
+    }
+  ]
+}

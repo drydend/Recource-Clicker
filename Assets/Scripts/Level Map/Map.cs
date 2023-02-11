@@ -29,23 +29,27 @@ namespace LevelMap
 
         public Map(List<CellsRegion> regions)
         {
-            _cellsMap = new Dictionary<Vector2Int, Cell>();
-
-            foreach (var region in regions)
-            {
-                foreach(var cell in region.Cells)
-                {
-                    _cellsMap.Add(cell.CellPosition.ToVector2Int(), cell);
-                }
-            }
-
             Regions = regions;
+            InitializeMap();
         }
 
         public Map()
         {
             _cellsMap = new Dictionary<Vector2Int, Cell>();
             Regions = new List<CellsRegion>();
+        }
+
+        public void InitializeMap()
+        {
+            _cellsMap = new Dictionary<Vector2Int, Cell>();
+
+            foreach (var region in Regions)
+            {
+                foreach (var cell in region.Cells)
+                {
+                    _cellsMap.Add(cell.CellPosition.ToVector2Int(), cell);
+                }
+            }
         }
     }
 }

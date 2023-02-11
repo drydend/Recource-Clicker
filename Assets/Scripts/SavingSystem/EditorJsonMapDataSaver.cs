@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace SaveSystem
 {
-    public class JsonMapEditorDataSaver : IMapDataSaver
+    public class EditorJsonMapDataSaver : IMapDataSaver
     {
         private readonly string MapSavePath = Application.dataPath + "/Saving/Map.json";
 
