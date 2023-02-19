@@ -45,5 +45,10 @@ namespace BuildingSystem
         {
             return HashCode.Combine(Type, Id);
         }
+
+        public override string ToString()
+        {
+            return $"Type: {_type} , Id: {_id} , Variation: {_variation}";
+        }
     }
 }

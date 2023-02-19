@@ -22,11 +22,6 @@
         {
           "Type": 1,
           "CellVariation": 17,
-          "BuildingData": {
-            "Type": 1,
-            "Id": 1,
-            "Variation": 0
-          },
           "CellPosition": {
             "X": 6,
             "Y": 9

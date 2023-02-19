@@ -7,17 +7,18 @@ namespace SaveSystem
 {
     public class EditorJsonMapDataSaver : IMapDataSaver
     {
-        private readonly string MapSavePath = Application.dataPath + "/Saving/Map.json";
+        private readonly string BaseMapSavePath = "BaseMap";
 
         public Map LoadMap()
         {
-            if (!File.Exists(MapSavePath))
+            TextAsset targetFile = UnityEngine.Resources.Load<TextAsset>(BaseMapSavePath);
+
+            if (targetFile == null)
             {
                 return new Map();
             }
 
-            var serializedData = File.ReadAllText(MapSavePath);
-            var map = JsonConvert.DeserializeObject<Map>(serializedData);
+            var map = JsonConvert.DeserializeObject<Map>(targetFile.text);
             return map;
         }
 
@@ -25,7 +26,7 @@ namespace SaveSystem
         {
             var serializedMap = JsonConvert.SerializeObject(map);
             
-            File.WriteAllText(MapSavePath, serializedMap);
+            File.WriteAllText(BaseMapSavePath, serializedMap);
         }
     }
 }

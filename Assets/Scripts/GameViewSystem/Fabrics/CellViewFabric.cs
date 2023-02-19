@@ -17,7 +17,6 @@ namespace LevelViewSystem
         [SerializeField]
         private CellView _lockedCellPlain;
 
-
         [SerializeField]
         private List<CellTypeCellVariationViewPair> _cellDataViewPairs;
 

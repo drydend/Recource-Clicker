@@ -5,8 +5,8 @@
         None,
         Forest,
         Mountaine,
-        Drill,
-        Factory,
+        Mine,
+        Smeltery,
         ScienceLab
     }
 }

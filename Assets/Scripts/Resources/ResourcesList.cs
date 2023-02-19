@@ -1,10 +1,9 @@
 ﻿using System;
-using Resources;
 using System.Collections.Generic;
 using System.Collections;
 using UnityEngine;
 
-namespace LevelMap
+namespace Resources
 {
     [Serializable]
     public class ResourcesList : ICollection<ResourceValuePair>, IEnumerable<ResourceValuePair>
