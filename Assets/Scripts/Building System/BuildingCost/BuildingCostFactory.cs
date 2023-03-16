@@ -5,7 +5,7 @@ using UnityEngine;
 namespace BuildingSystem
 {
     [CreateAssetMenu(menuName = "Building cost fabric", fileName = "Building cost fabric")]
-    public class BuildingCostFabric : ScriptableObject
+    public class BuildingCostFactory : ScriptableObject
     {
         [SerializeField]
         private List<BuildingDataCostPair> _buildingDataCostPairList;

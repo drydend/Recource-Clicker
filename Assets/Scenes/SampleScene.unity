@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b315960c8323d543bb9d123dec0b04d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _cellViewFabric: {fileID: 11400000, guid: e7ac8a2f072936c49b1977d63dcd26b6, type: 2}
+  _cellViewFabric: {fileID: 11400000, guid: f6db168d376f4884f8e957e9981a5de0, type: 2}
   _cellsViewParent: {fileID: 35678090}
 --- !u!4 &35678090
 Transform:

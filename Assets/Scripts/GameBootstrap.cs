@@ -8,17 +8,17 @@ namespace Infrastructure
     public class GameBootstrap : MonoBehaviour
     {
         [SerializeField]
-        private CellViewFabric _cellViewFabric;
+        private CellViewFactory _cellViewFabric;
         [SerializeField]
         private Transform _cellsViewParent;
 
         private MapSaver _mapSaver;
-        private Map _map;
+        private CellsMap _map;
         private CellsVisualizer _cellsVisualizer;
 
         private void Awake()
         {
-            _mapSaver = new MapSaver(new EditorJsonMapDataSaver());
+            _mapSaver = new MapSaver(new JsonMapDataSaver());
             _map = _mapSaver.LoadMap();
             _map.InitializeMap();
             _cellsVisualizer = new CellsVisualizer(_map, _cellViewFabric, _cellsViewParent);

@@ -5,7 +5,7 @@ using System;
 namespace LevelMap
 {
     [Serializable]
-    public class Map
+    public class CellsMap
     {
         [NonSerialized]
         private Dictionary<Vector2Int, Cell> _cellsMap;
@@ -27,13 +27,13 @@ namespace LevelMap
             }
         }
 
-        public Map(List<CellsRegion> regions)
+        public CellsMap(List<CellsRegion> regions)
         {
             Regions = regions;
             InitializeMap();
         }
 
-        public Map()
+        public CellsMap()
         {
             _cellsMap = new Dictionary<Vector2Int, Cell>();
             Regions = new List<CellsRegion>();

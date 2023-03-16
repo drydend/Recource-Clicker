@@ -9,11 +9,11 @@ namespace UI
     public class BuildingMenuSlotFabric
     {
         private GameModesController _gameModesController;
-        private BuildingCostFabric _buildingCostFabric;
+        private BuildingCostFactory _buildingCostFabric;
         private ResourceStorage _resourceStorage;
 
         public BuildingMenuSlotFabric(GameModesController gameModesController,
-            BuildingCostFabric buildingCostFabric, ResourceStorage resourceStorage)
+            BuildingCostFactory buildingCostFabric, ResourceStorage resourceStorage)
         {
             _gameModesController = gameModesController;
             _buildingCostFabric = buildingCostFabric;

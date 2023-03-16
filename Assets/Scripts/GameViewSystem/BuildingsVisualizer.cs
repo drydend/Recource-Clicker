@@ -10,10 +10,10 @@ namespace LevelViewSystem
         Dictionary<CellsRegion, CellsRegionBuildingsView> _cellsRegionBuildingsViews = 
             new Dictionary<CellsRegion, CellsRegionBuildingsView>();
 
-        private Map _map;
-        private BuildingViewFabric _buildingViewFabric;
+        private CellsMap _map;
+        private BuildingViewFactory _buildingViewFabric;
         private Transform _buildingViewParent;
-        public BuildingsVisualizer(Map map, BuildingViewFabric buildingViewFabric, Transform buildingViewParent)
+        public BuildingsVisualizer(CellsMap map, BuildingViewFactory buildingViewFabric, Transform buildingViewParent)
         {
             _map = map;
             _buildingViewFabric = buildingViewFabric;
@@ -35,23 +35,15 @@ namespace LevelViewSystem
         }
 
         private CellsRegionBuildingsView VisualizeRegionBuilding(CellsRegion region)
-        {   
-            var buildingsView = new List<BuildingView>();
-
-            foreach (var cell in region.Cells)
-            {   
-                var buildingViewInstance = VisualizeBuillding(cell.BuildingData, cell);
-                buildingsView.Add(buildingViewInstance);
-            }
-
-            return new CellsRegionBuildingsView(buildingsView);
+        {
+            throw new System.NotImplementedException();
         }
 
-        private BuildingView VisualizeBuillding(BuildingData data, Cell cell)
+        private BuildingView VisualizeBuillding(BuildingData data)
         {
             var buildingViewPrefab = _buildingViewFabric.GetView(data);
             
-            var position = cell.CellPosition.ToVector();
+            var position = data.Position.ToVector();
             var viewInstance = Object.Instantiate(buildingViewPrefab, _buildingViewParent);
             viewInstance.transform.localPosition = position;
             

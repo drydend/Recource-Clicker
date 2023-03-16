@@ -1,0 +1,694 @@
+{
+  "Regions": [
+    {
+      "BaseCellsRegionId": 1,
+      "Buildings": [
+        {
+          "Position": {
+            "X": 8,
+            "Y": 10
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 14,
+            "Y": 6
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 8,
+            "Y": 9
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 10,
+            "Y": 9
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 16,
+            "Y": 5
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 17,
+            "Y": 2
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 18,
+            "Y": -1
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 20,
+            "Y": -3
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 19,
+            "Y": -2
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 15,
+            "Y": 7
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 14,
+            "Y": 15
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 14,
+            "Y": 14
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 7,
+            "Y": 9
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 13,
+            "Y": 8
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 18,
+            "Y": 2
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 19,
+            "Y": -3
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 15,
+            "Y": 15
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 13,
+            "Y": 13
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 17,
+            "Y": 5
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 16,
+            "Y": 9
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 14,
+            "Y": 9
+          },
+          "Type": 1,
+          "Id": 1,
+          "Variation": 1
+        }
+      ]
+    },
+    {
+      "BaseCellsRegionId": 0,
+      "Buildings": [
+        {
+          "Position": {
+            "X": -1,
+            "Y": 4
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 1,
+            "Y": 4
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 2,
+            "Y": 3
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 0
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -2,
+            "Y": -1
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -1,
+            "Y": -3
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 1,
+            "Y": -2
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -2,
+            "Y": -5
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -5,
+            "Y": -2
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -2,
+            "Y": -4
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 7,
+            "Y": -4
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 8,
+            "Y": -2
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -11,
+            "Y": -3
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 1,
+            "Y": 3
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": -2,
+            "Y": 1
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": -3,
+            "Y": -6
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": -1,
+            "Y": -4
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 1,
+            "Y": -5
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 6,
+            "Y": -3
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 6,
+            "Y": -4
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": -12,
+            "Y": -2
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": -12,
+            "Y": -3
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 3
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -4,
+            "Y": 1
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -5,
+            "Y": -1
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -13,
+            "Y": -2
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -13,
+            "Y": -4
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -12,
+            "Y": -4
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": -2,
+            "Y": -3
+          },
+          "Type": 1,
+          "Id": 0,
+          "Variation": 1
+        }
+      ]
+    },
+    {
+      "BaseCellsRegionId": 2,
+      "Buildings": [
+        {
+          "Position": {
+            "X": 6,
+            "Y": -18
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 5,
+            "Y": -19
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 9,
+            "Y": -18
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 16,
+            "Y": -14
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 14,
+            "Y": -18
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 21,
+            "Y": -20
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 13,
+            "Y": -24
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 14,
+            "Y": -24
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 11,
+            "Y": -23
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 10,
+            "Y": -22
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 21,
+            "Y": -19
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 15,
+            "Y": -13
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 13,
+            "Y": -13
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 9,
+            "Y": -11
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 6,
+            "Y": -19
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 4,
+            "Y": -17
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 19,
+            "Y": -18
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 20,
+            "Y": -20
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 15,
+            "Y": -14
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 12,
+            "Y": -12
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 8,
+            "Y": -11
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 0
+        },
+        {
+          "Position": {
+            "X": 8,
+            "Y": -17
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 20,
+            "Y": -18
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 20,
+            "Y": -21
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 1
+        },
+        {
+          "Position": {
+            "X": 12,
+            "Y": -23
+          },
+          "Type": 1,
+          "Id": 2,
+          "Variation": 1
+        }
+      ]
+    }
+  ]
+}

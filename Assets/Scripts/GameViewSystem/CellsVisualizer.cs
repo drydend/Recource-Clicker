@@ -8,11 +8,11 @@ namespace LevelViewSystem
     {
         private Dictionary<CellsRegion,CellsRegionView> _cellsRegionViews = new Dictionary<CellsRegion, CellsRegionView>();
 
-        private Map _map;
-        private CellViewFabric _cellViewFabric;
+        private CellsMap _map;
+        private CellViewFactory _cellViewFabric;
         private Transform _cellViewParent;
 
-        public CellsVisualizer(Map map, CellViewFabric cellViewFabric, Transform cellViewParent)
+        public CellsVisualizer(CellsMap map, CellViewFactory cellViewFabric, Transform cellViewParent)
         {
             _map = map;
             _cellViewFabric = cellViewFabric;

@@ -9,15 +9,13 @@ namespace LevelMap
     {
         public CellType Type { get; private set; }
         public CellVariation CellVariation { get; private set; }
-        public BuildingData BuildingData { get; private set; }
         public MapPoint CellPosition { get; private set; }
         
-        public Cell(CellType type, CellVariation cellVariation, BuildingData buildingData,
+        public Cell(CellType type, CellVariation cellVariation,
             MapPoint cellPosition)
         {
             Type = type;
             CellVariation = cellVariation;
-            BuildingData = buildingData;
             CellPosition = cellPosition;
         }
 
@@ -25,11 +23,6 @@ namespace LevelMap
         {
             Type = cellType;
             CellVariation = cellVariation;
-        }
-
-        public void SetBuilding(BuildingData data)
-        {
-            BuildingData = data;
         }
     }
 }

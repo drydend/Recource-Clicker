@@ -1,5 +1,4 @@
-﻿using Newtonsoft.Json;
-using Resources;
+﻿using Resources;
 using System;
 using System.Collections.Generic;
 using UnityEngine;

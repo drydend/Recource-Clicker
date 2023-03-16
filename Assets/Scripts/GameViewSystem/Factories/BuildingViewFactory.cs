@@ -4,8 +4,8 @@ using UnityEngine;
 
 namespace LevelViewSystem
 {
-    [CreateAssetMenu(menuName = "Building Fabric")]
-    public class BuildingViewFabric : ScriptableObject
+    [CreateAssetMenu(menuName = "Building View Factory")]
+    public class BuildingViewFactory : ScriptableObject
     {
         [SerializeField]
         private List<BuildingDataViewPair> _buildingDataViewPairs;

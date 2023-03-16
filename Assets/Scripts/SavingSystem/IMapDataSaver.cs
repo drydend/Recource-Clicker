@@ -4,7 +4,10 @@ namespace SaveSystem
 {
     public interface IMapDataSaver
     {
-        void SaveMap(Map map);
-        Map LoadMap();
+        void SaveBuildingsMap(BuildingsMap buildingsMap);
+
+        CellsMap LoadBaseCellsMap();
+        BuildingsMap LoadBaseBuildingsMap();
+        BuildingsMap LoadCurrentBuildingsMap();
     }
 }

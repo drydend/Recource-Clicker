@@ -11,14 +11,9 @@ namespace SaveSystem
             _dataSaver = dataSaver;
         }
 
-        public void SaveMap(Map map)
+        public CellsMap LoadMap()
         {
-            _dataSaver.SaveMap(map);
-        }
-
-        public Map LoadMap()
-        {
-            return _dataSaver.LoadMap();
+            return _dataSaver.LoadBaseCellsMap();
         }
     }
 }

@@ -5,8 +5,8 @@ using UnityEngine;
 
 namespace LevelViewSystem
 {
-    [CreateAssetMenu(menuName = "Cell Fabric")]
-    public class CellViewFabric : ScriptableObject
+    [CreateAssetMenu(menuName = "Cell View Factory")]
+    public class CellViewFactory : ScriptableObject
     {
         [SerializeField]
         private CellView _lockedCell_TB_Empty;
@@ -38,7 +38,7 @@ namespace LevelViewSystem
         }
 
 
-        public CellView GetLockedCellView(Map map, CellsRegion region, MapPoint cellPosition)
+        public CellView GetLockedCellView(CellsMap map, CellsRegion region, MapPoint cellPosition)
         {
             var cellAtTop = map[cellPosition.ToVector2Int() + Vector2Int.up];
             var cellAtBottom = map[cellPosition.ToVector2Int() + Vector2Int.down];

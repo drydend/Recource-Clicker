@@ -7,6 +7,7 @@ namespace BuildingSystem
         [SerializeField]
         private BuildingData _data;
 
+
         public BuildingData Data => _data;
     }
 }

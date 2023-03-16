@@ -3,8 +3,7 @@
     public enum BuildingType
     {
         None,
-        Forest,
-        Mountaine,
+        Obstacle,
         Mine,
         Smeltery,
         ScienceLab
